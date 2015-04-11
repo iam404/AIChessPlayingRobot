@@ -1,0 +1,11 @@
+﻿Build started 07-03-2014 21:45:33.
+     1>Project "C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt Source15.cpp
+         Source15.cpp
+     1>Source15.cpp(7): fatal error C1083: Cannot open include file: 'opencv2/highgui/highgui.hpp': No such file or directory
+     1>Done Building Project "C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17

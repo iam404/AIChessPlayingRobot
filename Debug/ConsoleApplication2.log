@@ -1,0 +1,14 @@
+﻿Build started 29-07-2014 07:43:24.
+     1>Project "C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt timepass.cpp
+         timepass.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\OpenCV2.2\lib C:\OpenCV2.2\lib\opencv_highgui220d.lib C:\OpenCV2.2\lib\opencv_highgui220.lib C:\OpenCV2.2\lib\opencv_core220.lib C:\OpenCV2.2\lib\opencv_core220d.lib C:\OpenCV2.2\lib\opencv_calib3d220.lib C:\OpenCV2.2\lib\opencv_calib3d220d.lib C:\OpenCV2.2\lib\opencv_contrib220.lib C:\OpenCV2.2\lib\opencv_contrib220d.lib C:\OpenCV2.2\lib\opencv_features2d220.lib C:\OpenCV2.2\lib\opencv_features2d220d.lib C:\OpenCV2.2\lib\opencv_ffmpeg220.lib C:\OpenCV2.2\lib\opencv_ffmpeg220d.lib C:\OpenCV2.2\lib\opencv_flann220.lib C:\OpenCV2.2\lib\opencv_flann220d.lib C:\OpenCV2.2\lib\opencv_gpu220.lib C:\OpenCV2.2\lib\opencv_gpu220d.lib C:\OpenCV2.2\lib\opencv_imgproc220.lib C:\OpenCV2.2\lib\opencv_imgproc220d.lib C:\OpenCV2.2\lib\opencv_legacy220.lib C:\OpenCV2.2\lib\opencv_legacy220d.lib C:\OpenCV2.2\lib\opencv_ml220.lib C:\OpenCV2.2\lib\opencv_ml220d.lib C:\OpenCV2.2\lib\opencv_objdetect220.lib C:\OpenCV2.2\lib\opencv_objdetect220d.lib C:\OpenCV2.2\lib\opencv_ts220.lib C:\OpenCV2.2\lib\opencv_video220.lib C:\OpenCV2.2\lib\opencv_video220d.lib C:\cvblobslib_OpenCV_v83\Debug\cvblobslib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\timepass.obj
+     1>timepass.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         ConsoleApplication2.vcxproj -> C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Done Building Project "C:\Users\N!kE\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.07
